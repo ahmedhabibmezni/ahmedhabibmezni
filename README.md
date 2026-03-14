@@ -77,7 +77,7 @@ const ahmed = {
 
 ## 🎯 Featured Projects
 
-### 🏥 [Dewini - Cloud-Native Medical Platform](https://github.com/didaa16/Dewini)
+### 🏥 [Dewini - Cloud-Native Medical Platform](https://github.com/ahmedhabibmezni/Dewini)
 > Revolutionary healthcare management system serving **1,000+ users**
 
 **Stack:** `Spring Boot` `Angular` `Python` `Kubernetes` `Docker` `Ansible`
@@ -98,7 +98,7 @@ const ahmed = {
 
 ---
 
-### ⚽ [XtraTime - Sports Facility Booking](https://github.com/didaa16/XtraTime)
+### ⚽ [XtraTime - Sports Facility Booking](https://github.com/ahmedhabibmezni/XtraTime)
 > Cross-platform booking system with real-time availability
 
 **Stack:** `JavaFX` `FlutterFlow` `Symfony` `REST API`
@@ -108,7 +108,7 @@ const ahmed = {
 
 ---
 
-### ✈️ [Luxury Seat - Travel Management](https://github.com/didaa16/LuxurySeat)
+### ✈️ [Luxury Seat - Travel Management](https://github.com/ahmedhabibmezni/LuxurySeat)
 > Desktop app streamlining travel operations
 
 **Stack:** `C++` `QT Designer`
@@ -122,20 +122,20 @@ const ahmed = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=didaa16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didaa16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedhabibmezni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhabibmezni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=didaa16&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhabibmezni&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="500"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=didaa16&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedhabibmezni&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -166,7 +166,7 @@ building:
 
 🚀 _Let's build something amazing together!_
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)](https://didaa16.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)](https://ahmedhabibmezni.github.io/Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedhabibmezni)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedhabibmezni@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meznyahmed_)
@@ -174,10 +174,10 @@ building:
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=didaa16&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ahmedhabibmezni&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 ### 💭 _"Automating today, innovating tomorrow."_
 
-⭐️ From [didaa16](https://github.com/didaa16)
+⭐️ From [ahmedhabibmezni](https://github.com/ahmedhabibmezni)
 
 </div>
