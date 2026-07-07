@@ -229,7 +229,12 @@ const ahmed = {
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-<sub>WakaTime stats will appear here once the integration runs (see setup note below).</sub>
+
+```txt
+Markdown   12 mins         ████████████████▒░░░░░░░░   64.75 %
+TeX        7 mins          ████████▓░░░░░░░░░░░░░░░░   35.25 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
