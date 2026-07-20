@@ -231,7 +231,10 @@ const ahmed = {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     1 min           █████████████░░░░░░░░░░░░   52.28 %
+TeX          1 min           ███████████░░░░░░░░░░░░░░   43.96 %
+TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
