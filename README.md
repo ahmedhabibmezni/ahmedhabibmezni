@@ -231,7 +231,9 @@ const ahmed = {
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 mins          █████████████████████████   100.00 %
+TeX        5 mins          ███████████████░░░░░░░░░░   60.01 %
+Markdown   2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.43 %
+Text       1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
 ```
 
 <!--END_SECTION:waka-->
