@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Ahmed Habib Mezni!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cloud+Computing+Engineer;DevOps+Enthusiast;Full-Stack+Developer;Kubernetes+%26+Microservices+Expert;VM-to-OpenShift+Migration+Specialist;Always+Learning+New+Technologies!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cloud+Computing+Engineer;DevOps+Enthusiast;Full-Stack+Developer;Kubernetes+%26+Microservices+Engineer;VM-to-OpenShift+Migration+Specialist;Always+Learning+New+Technologies!" alt="Typing SVG" />
 
 </div>
 
@@ -32,16 +32,16 @@
 ```typescript
 const ahmed = {
     location: "Tunis, Tunisia 🇹🇳",
-    education: "Computer Science Engineering @ ESPRIT",
+    education: "Engineering Degree in IT Architecture and Cloud Computing @ ESPRIT, 07/2026",
     specialization: "IT Architecture & Cloud Computing",
-    lastInternship: "PFE @ NextStep IT — built ShiftWise, a VM-to-OpenShift migration platform 🔄",
+    lastInternship: "PFE @ NextStep IT: built ShiftWise, a VM-to-OpenShift migration platform 🔄",
     currentFocus: ["Kubernetes", "OpenShift & KubeVirt", "Multi-Cloud", "DevOps", "AI Integration"],
     interests: ["Cloud-Native Apps", "Infrastructure as Code", "Automation"],
     funFact: "I automated 3 hours of weekly work... now that's efficiency! ⚡"
 };
 ```
 
-💡 **Passionate about building scalable cloud solutions & modern web applications!** With expertise in **AWS**, **OpenShift**, **Kubernetes**, **Docker**, **Terraform**, **Ansible**, **FastAPI**, **Spring Boot**, **React**, and **Angular**, I thrive on crafting high-performance, cloud-native applications.
+💡 **IT Architecture and Cloud Computing Engineer** focused on scalable cloud solutions and modern web applications. I build with **OpenShift**, **Kubernetes**, **Docker**, **Ansible**, **FastAPI**, **Spring Boot**, **React**, and **Angular**, with working knowledge of **AWS** and **Terraform**.
 
 🌍 **Open-source enthusiast** | 🚀 **Tech explorer** | 💡 **Lifelong learner**
 
@@ -73,6 +73,8 @@ const ahmed = {
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
+![Azure AKS](https://img.shields.io/badge/Azure_AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![KubeVirt](https://img.shields.io/badge/KubeVirt-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -82,6 +84,8 @@ const ahmed = {
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -107,7 +111,7 @@ const ahmed = {
 
 ## 🎯 Featured Projects
 
-### 🏆 [ShiftWise — Intelligent VM-to-OpenShift Migration Platform](https://github.com/didaa16/ShiftWise)
+### 🏆 [ShiftWise: Intelligent VM-to-OpenShift Migration Platform](https://github.com/ahmedhabibmezni/ShiftWise)
 
 > ⭐ **My flagship project** · 5th-Year Engineering Internship (PFE) @ **NextStep IT**
 
@@ -128,25 +132,27 @@ const ahmed = {
 
 </div>
 
-> An end-to-end platform that **automates migrating virtual machines** from heterogeneous hypervisors — VMware vSphere/ESXi/Workstation, Hyper-V, libvirt/KVM, Proxmox VE, oVirt/RHV — **and bare-metal Linux servers (P2V)** to **Red Hat OpenShift Virtualization (KubeVirt)**.
+> An end-to-end platform that **automates migrating virtual machines** from heterogeneous hypervisors, including VMware vSphere/ESXi/Workstation, Hyper-V, libvirt/KVM, Proxmox VE and oVirt/RHV, plus **bare-metal Linux servers (P2V)** to **Red Hat OpenShift Virtualization (KubeVirt)**.
 
 - 🔍 **Auto-discovery** across **7 hypervisor sources** + physical Linux (P2V) over SSH
-- 🤖 **AI-driven compatibility analysis** — hybrid rules + scikit-learn classifier producing a 0–100 score with automatic migration-strategy selection
-- 🔄 Fully automated **6-stage pipeline** (Discovery → Analyze → Convert → Adapt → Migrate → Report), orchestrated asynchronously via **Celery + Redis**
+- 🤖 **AI-driven compatibility analysis**: hybrid rules plus a scikit-learn classifier producing a 0–100 score with automatic migration-strategy selection
+- 🔄 Fully automated **6-stage pipeline** (Discovery → Analyze → Convert → Adapt → Migrate → Report), orchestrated asynchronously through **Celery + Redis**
 - 💽 Disk conversion (**VMDK/VHD/raw → QCOW2**) via `qemu-img` Kubernetes Jobs + guest-OS fixup with `libguestfs`
-- 🔐 Secure by design — **JWT auth**, **RBAC** (4 roles), **multi-tenancy**, and Fernet-encrypted cluster configs
+- 🔐 Secure by design: **JWT auth**, **RBAC** (4 roles), **multi-tenancy**, and Fernet-encrypted cluster configs
 - ✅ **~85% backend test coverage**, SonarQube quality gate, and **one-command OpenShift deployment**
 
 **Stack:** `Python` `FastAPI` `SQLAlchemy` `React 19` `TypeScript` `Tailwind CSS` `Vite` `PostgreSQL` `Redis` `Celery` `OpenShift 4.18` `KubeVirt` `scikit-learn` `Docker`
 
-🔗 **Repository:** [github.com/didaa16/ShiftWise](https://github.com/didaa16/ShiftWise)
+🔗 **Repository:** [github.com/ahmedhabibmezni/ShiftWise](https://github.com/ahmedhabibmezni/ShiftWise)
 
 ---
 
 ### 🏥 [Dewini - Cloud-Native Medical Platform](https://github.com/ahmedhabibmezni/Dewini)
 > Revolutionary healthcare management system serving **1,000+ users**
 
-**Stack:** `Spring Boot` `Angular` `Python` `Kubernetes` `Docker` `Ansible`
+**Application stack:** `Spring Boot` `Angular` `Python` `Kubernetes` `Docker` `Ansible` `Azure AKS`
+
+**Infrastructure:** Built a private **OpenStack** cloud from zero with Keystone, Nova, Neutron, Cinder, Swift, Glance, Heat and Horizon. Heat templates and Ansible playbooks provisioned the nodes for a self-managed Kubernetes cluster hosting Dewini.
 
 - ✨ Microservices architecture with **99.5% uptime**
 - 🤖 AI-powered emergency triage
@@ -190,9 +196,15 @@ const ahmed = {
 
 | Status | Certification |
 |:------:|---------------|
-| 🚧 In Progress | **Red Hat Certified Specialist in OpenShift Administration (EX280)** |
-| 🎯 Planned | **AWS Certified Solutions Architect – Associate** |
-| 🎯 Planned | **Certified Kubernetes Administrator (CKA)** |
+| ✅ Obtained, 10/2025 | **AWS Academy Graduate, Cloud Foundations** |
+| ✅ Obtained, 10/2025 | **AWS Academy Graduate, Cloud Security Foundations** |
+| ✅ Obtained, 11/2025 | **AWS Academy Graduate, Cloud Operations** |
+| ✅ Obtained, 09/2025 | **Aviatrix Certified Engineer, Multicloud Network Associate** |
+| ✅ Obtained, 05/2024 | **CCNA, Switching, Routing and Wireless Essentials** |
+| ✅ Obtained, 11/2025 | **Hashgraph Developer Course** |
+| 🔄 In preparation | **AWS Certified Solutions Architect – Associate (SAA-C03)** |
+| 🔄 In preparation | **Certified Kubernetes Administrator (CKA)** |
+| 🎯 Planned | **Red Hat Certified Specialist in OpenShift Administration (EX280)** |
 
 <sub>📌 Update this section as certifications are earned — add a badge and link to the credential.</sub>
 
@@ -202,8 +214,7 @@ const ahmed = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedhabibmezni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhabibmezni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=C9D1D9" alt="Top Languages" height="170"/>
+<a href="https://github.com/ahmedhabibmezni">View my repositories and contribution history on GitHub</a>
 
 </div>
 
