@@ -240,7 +240,15 @@ const ahmed = {
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-<sub>Updated automatically by GitHub Actions.</sub>
+
+```txt
+Go                4 hrs 28 mins   █████████▒░░░░░░░░░░░░░░░   37.69 %
+Markdown          2 hrs 30 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
+TypeScript        1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
+Other             57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+Bash              41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
