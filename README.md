@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Ahmed Habib Mezni!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cloud+Computing+Engineer;DevOps+Enthusiast;Full-Stack+Developer;Kubernetes+%26+Microservices+Engineer;VM-to-OpenShift+Migration+Specialist;Always+Learning+New+Technologies!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer+%40+QuantumStack;Ansible%2C+GitOps+%26+CI%2FCD;Kubernetes+%26+OpenShift;Built+a+VM-to-OpenShift+Migration+Platform;Always+Learning+New+Technologies!" alt="Typing SVG" />
 
 </div>
 
@@ -17,10 +17,10 @@
 
 <div align="center">
 
-### 🎯 Open to Cloud / DevOps & Full-Stack Engineer roles
+### 🎯 Open to DevOps & Cloud Engineer opportunities
 
-[![Hire Me](https://img.shields.io/badge/💼_Available_for_Hire-2EA44F?style=for-the-badge)](mailto:ahmedhabibmezni@gmail.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-FF5722?style=for-the-badge)](https://drive.google.com/file/d/16g3mRBbAY8sHseWZlt_Ca3rA1SksFyPM/view?usp=sharing)
+[![Contact](https://img.shields.io/badge/💼_Open_to_Opportunities-2EA44F?style=for-the-badge)](mailto:ahmedhabibmezni@gmail.com)
+[![Resume](https://img.shields.io/badge/📄_Resume-FF5722?style=for-the-badge)](https://ahmedhabibmezni.github.io/Files/Papiers/Cv__English.pdf)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-555555?style=for-the-badge)](https://ahmedhabibmezni.github.io/)
 
 </div>
@@ -32,18 +32,31 @@
 ```typescript
 const ahmed = {
     location: "Tunis, Tunisia 🇹🇳",
+    currentRole: "DevOps & Cloud Engineer @ QuantumStack (07/2026 – present)",
     education: "Engineering Degree in IT Architecture and Cloud Computing @ ESPRIT, 07/2026",
     specialization: "IT Architecture & Cloud Computing",
-    lastInternship: "PFE @ NextStep IT: built ShiftWise, a VM-to-OpenShift migration platform 🔄",
-    currentFocus: ["Kubernetes", "OpenShift & KubeVirt", "Multi-Cloud", "DevOps", "AI Integration"],
+    previousRole: "DevOps & Cloud Engineer, 6-month internship @ Next Step: built ShiftWise, a VM-to-OpenShift migration platform 🔄",
+    currentFocus: ["Ansible", "GitOps & CI/CD", "DevSecOps", "Kubernetes & OpenShift", "Observability"],
     interests: ["Cloud-Native Apps", "Infrastructure as Code", "Automation"],
     funFact: "I automated 3 hours of weekly work... now that's efficiency! ⚡"
 };
 ```
 
-💡 **IT Architecture and Cloud Computing Engineer** focused on scalable cloud solutions and modern web applications. I build with **OpenShift**, **Kubernetes**, **Docker**, **Ansible**, **FastAPI**, **Spring Boot**, **React**, and **Angular**, with working knowledge of **AWS** and **Terraform**.
+💡 **DevOps & Cloud Engineer at QuantumStack**, running live multi-server infrastructure with Ansible, GitHub Actions, Docker, Linux and Prometheus/Grafana. Before that I built **ShiftWise**, a VM migration platform delivered on a bare-metal OpenShift 4.18 cluster, and an **OpenStack** private cloud from scratch. I also work with Kubernetes, Argo CD, FastAPI and Spring Boot, with working knowledge of AWS.
 
 🌍 **Open-source enthusiast** | 🚀 **Tech explorer** | 💡 **Lifelong learner**
+
+---
+
+## 💼 Current Role
+
+### DevOps & Cloud Engineer @ QuantumStack · 07/2026 – present
+_Live multi-server blockchain infrastructure · Tunis, Tunisia_
+
+- 🚀 Operate infrastructure and deployments across **3 servers and 10 repositories**, using a release pipeline I built: Git tag-driven releases, digest-pinned Docker images, keyless cosign signing, blue/green cutover and automatic rollback inside a 90-second health window
+- ⚙️ Automated full server provisioning with **47 Ansible playbooks and 10 roles**: WireGuard mesh, firewall, SSH hardening, TLS, Docker, reverse proxies and a least-privilege deployment gateway
+- 🔐 Implemented **DevSecOps gates on 4 repositories** (Gitleaks, CodeQL, Trivy, govulncheck, actionlint, SHA-pinned actions), backed by 234 automated infrastructure tests in Python
+- 📈 Built the **Prometheus and Grafana** stack with 11 unit-tested alert rules, introduced nightly and pre-migration PostgreSQL backups, and led root-cause analysis on a full outage caused by a saturated filesystem
 
 ---
 
@@ -54,6 +67,7 @@ const ahmed = {
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -78,9 +92,9 @@ const ahmed = {
 ![KubeVirt](https://img.shields.io/badge/KubeVirt-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
@@ -113,7 +127,7 @@ const ahmed = {
 
 ### 🏆 [ShiftWise: Intelligent VM-to-OpenShift Migration Platform](https://github.com/ahmedhabibmezni/ShiftWise)
 
-> ⭐ **My flagship project** · 5th-Year Engineering Internship (PFE) @ **NextStep IT**
+> ⭐ **My flagship project** · 5th-Year Engineering Internship (PFE) @ **Next Step**
 
 <div align="center">
 
@@ -202,11 +216,8 @@ const ahmed = {
 | ✅ Obtained, 09/2025 | **Aviatrix Certified Engineer, Multicloud Network Associate** |
 | ✅ Obtained, 05/2024 | **CCNA, Switching, Routing and Wireless Essentials** |
 | ✅ Obtained, 11/2025 | **Hashgraph Developer Course** |
-| 🔄 In preparation | **AWS Certified Solutions Architect – Associate (SAA-C03)** |
 | 🔄 In preparation | **Certified Kubernetes Administrator (CKA)** |
 | 🎯 Planned | **Red Hat Certified Specialist in OpenShift Administration (EX280)** |
-
-<sub>📌 Update this section as certifications are earned — add a badge and link to the credential.</sub>
 
 ---
 
@@ -226,7 +237,7 @@ const ahmed = {
 
 <div align="center">
 
-<!-- Contribution snake — generated by .github/workflows/snake.yml -->
+<!-- Contribution snake, generated by .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedhabibmezni/ahmedhabibmezni/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedhabibmezni/ahmedhabibmezni/output/github-snake.svg">
@@ -257,17 +268,16 @@ Python     22 mins         █▓░░░░░░░░░░░░░░░�
 
 ```yaml
 learning:
+  - Kubernetes administration (CKA prep)
   - Multi-Cloud Architecture
-  - Advanced Kubernetes
   - Service Mesh
   - Cloud Security
 
 building:
-  - VM-to-OpenShift Migration (KubeVirt)
-  - AI-Assisted Cloud Tooling
-  - Scalable Microservices
-  - CI/CD Automation
-  - Infrastructure as Code
+  - Tag-driven release pipelines (blue/green, automatic rollback)
+  - Server provisioning with Ansible
+  - DevSecOps gates in CI
+  - Observability & alerting with Prometheus/Grafana
 ```
 
 ---
