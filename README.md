@@ -253,11 +253,11 @@ _Live multi-server blockchain infrastructure · Tunis, Tunisia_
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     3 hrs 40 mins   ████████▒░░░░░░░░░░░░░░░░   32.72 %
-Python       2 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.43 %
-Other        2 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
-Bash         1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
-YAML         57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+Markdown     3 hrs 40 mins   ████████▓░░░░░░░░░░░░░░░░   34.80 %
+Python       2 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
+Other        1 hr 30 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+Bash         1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+YAML         54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
 ```
 
 <!--END_SECTION:waka-->
