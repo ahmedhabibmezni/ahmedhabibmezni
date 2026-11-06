@@ -53,7 +53,7 @@ const ahmed = {
 ### DevOps & Cloud Engineer @ QuantumStack · 07/2026 – present
 _Live multi-server blockchain infrastructure · Tunis, Tunisia_
 
-- 🚀 Operate infrastructure and deployments across **3 servers and 10 repositories**, using a release pipeline I built: Git tag-driven releases, digest-pinned Docker images, keyless cosign signing, blue/green cutover and automatic rollback inside a 90-second health window
+- 🚀 Operate infrastructure and deployments across **5 servers and 10 repositories**, using a release pipeline I built: Git tag-driven releases, digest-pinned Docker images, keyless cosign signing, blue/green cutover and automatic rollback inside a 90-second health window
 - ⚙️ Automated full server provisioning with **47 Ansible playbooks and 10 roles**: WireGuard mesh, firewall, SSH hardening, TLS, Docker, reverse proxies and a least-privilege deployment gateway
 - 🔐 Implemented **DevSecOps gates on 4 repositories** (Gitleaks, CodeQL, Trivy, govulncheck, actionlint, SHA-pinned actions), backed by 234 automated infrastructure tests in Python
 - 📈 Built the **Prometheus and Grafana** stack with 11 unit-tested alert rules, introduced nightly and pre-migration PostgreSQL backups, and led root-cause analysis on a full outage caused by a saturated filesystem
